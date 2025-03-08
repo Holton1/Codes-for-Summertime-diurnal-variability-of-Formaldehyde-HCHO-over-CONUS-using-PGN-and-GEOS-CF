@@ -2,11 +2,17 @@
 Tianlang Zhao1, Jingqiu Mao1, Apoorva Pandey2, Xiaoyi Zhao3, Katherine Emma Knowland4,5,6, Viral Shah4,5, Jennifer Kaiser7, Elena Spinei Lind5, Thomas F Hanisco5
 
 1 University of Alaska Fairbanks, Department of Chemistry and Biochemistry & Geophysical Institute, Fairbanks, AK, USA
+
 2 John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA
+
 3 Air Quality Research Division, Environment and Climate Change Canada, Toronto, Ontario, M3H 5T4, Canada. 
+
 4 Morgan State University, GESTAR-II, Baltimore, MD, USA 
+
 5 NASA Goddard Space Flight Center, Greenbelt, MD, USA
+
 6 NASA Headquarters, Washington, DC, USA
+
 7 School of Earth and Atmospheric Sciences, Georgia Institute of Technology, Atlanta, GA, USA
 
 Correspondence to: Tianlang Zhao (tzhao@alaska.edu) and Jingqiu Mao (jmao2@alaska.edu)
